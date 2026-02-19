@@ -1,3 +1,8 @@
+correct_username = "admin"
+correct_password = "1234"
+
+attempts = 0
+
 while attempts < 3:
     username = input("Enter username: ")
     password = input("Enter password: ")
